@@ -43,19 +43,19 @@ A complete end-to-end machine learning project to predict customer churn in a te
 ## 📈 Dashboard Preview
 
 ### Churn Overview
-![Churn Overview](dashboard/churn_overview.png)
+![Churn Overview](Dashboard/Screenshots/Churn_overview.png)
 > Key KPIs: 7K total customers, 2K churned, 27% churn rate, avg monthly charges of $64.80. Breakdown by payment type (electronic check leads at 45.29%), contract type (month-to-month at 42.71%), and internet service (fiber optic at 41.89%).
 
 ---
 
 ### Customer Deep Dive
-![Customer Deep Dive](dashboard/customer_deep_dive.png)
+![Customer Deep Dive](Dashboard/Screenshots/Customer_deep_dive.png)
 > Avg tenure of churned customers is just 18 months vs 38 months for retained. Churn drops sharply with tenure — 47.68% in the first year, down to 9.51% after 49+ months. Top churn drivers from the Random Forest model: Tenure, Contract type, and Internet Service. Senior citizens churn at 41.68% vs 23.65% for non-seniors.
 
 ---
 
 ### Segmentation & Strategy
-![Segmentation and Strategy](dashboard/segmentation_strategy.png)
+![Segmentation and Strategy](Dashboard/Screenshots/Segmentation_and_strategy.png)
 > Customers segmented into three actionable groups — **At-Risk New** (38% churn, 2.4K customers), **Budget** (24% churn, 2.5K customers), and **Loyal High-Value** (15% churn, 2K customers) — each with tailored retention strategies built directly into the dashboard.
 
 ---
