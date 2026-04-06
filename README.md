@@ -43,7 +43,7 @@ A complete end-to-end machine learning project to predict customer churn in a te
 ## 📈 Dashboard Preview
 
 ### Churn Overview
-![Churn Overview](Dashboard/Screenshots/Churn_overview.png)
+![Churn Overview](Dashboard/Screenshots/churn_overview.png)
 > Key KPIs: 7K total customers, 2K churned, 27% churn rate, avg monthly charges of $64.80. Breakdown by payment type (electronic check leads at 45.29%), contract type (month-to-month at 42.71%), and internet service (fiber optic at 41.89%).
 
 ---
