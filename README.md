@@ -55,7 +55,7 @@ A complete end-to-end machine learning project to predict customer churn in a te
 ---
 
 ### Segmentation & Strategy
-![Segmentation and Strategy](Dashboard/Screenshots/Segmentation_and_Strategy.png)
+![Segmentation and Strategy](Dashboard/Screenshots/Segmentation_and_strategy.png)
 > Customers segmented into three actionable groups — **At-Risk New** (38% churn, 2.4K customers), **Budget** (24% churn, 2.5K customers), and **Loyal High-Value** (15% churn, 2K customers) — each with tailored retention strategies built directly into the dashboard.
 
 ---
