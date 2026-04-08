@@ -49,7 +49,7 @@ A complete end-to-end machine learning project to predict customer churn in a te
 ---
 
 ### Customer Deep Dive
-![Customer Deep Dive](Dashboard/Screenshots/Customers_deep_dive.png)
+![Customer Deep Dive](Dashboard/Screenshots/customers_deep_dive.png)
 > Avg tenure of churned customers is just 18 months vs 38 months for retained. Churn drops sharply with tenure — 47.68% in the first year, down to 9.51% after 49+ months. Top churn drivers from the Random Forest model: Tenure, Contract type, and Internet Service. Senior citizens churn at 41.68% vs 23.65% for non-seniors.
 
 ---
